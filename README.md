@@ -32,4 +32,6 @@ Follow our deployment guides for [Vercel](https://create.t3.gg/en/deployment/ver
 
 
 ##ouput
-![{E2990786-33CC-4E1A-BDCC-AF52A1FCB665}](https://github.com/user-attachments/assets/466ab147-662c-4f52-85fb-a8995e5f0726)
+![screenshot-localhost_3000-2024_10_25-12_35_08](https://github.com/user-attachments/assets/98f93770-3017-4a0a-885c-be9bbdfc013f)
+
+
